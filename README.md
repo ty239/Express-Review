@@ -1,4 +1,4 @@
-# ⚛️ React Mini!
+# ⚛️ React Mini
 
 This is meant to get you started learning React! It uses Webpack and Babel to complile your React code, along with your CSS. You can also use `webpack-dev-server` to preview your React application locally, and the application will rebuild quickly on every file save. By default, the server runs on [http://localhost:3000](http://localhost:3000).
 
