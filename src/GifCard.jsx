@@ -1,12 +1,7 @@
 import React from "react";
-import "./style.css";
 
-const GifCard = ({ gif }) => {
-  return (
-    <div className="gif-card">
-      <img src={gif.images.original.url} alt={gif.title} />
-    </div>
-  );
+const GifCard = () => {
+  return <div className="gif-card"></div>;
 };
 
 export default GifCard;
