@@ -24,3 +24,15 @@ body {
   justify-content: center;
   min-height: 100vh;
 }
+
+.gif-card {
+  width: 200px;
+  height: 200px;
+  border-radius: 10px;
+  overflow: hidden;
+  margin: 1rem;
+}
+
+.gif-card img {
+  width: 100%;
+}
