@@ -14,10 +14,10 @@ function SearchBar({ userName, setUserName }) {
           onChange(event);
         }}
         onKeyUP={(event) => {
-          onChange(evebt);
+          onChange(event);
         }}
         onPaste={(event) => {
-          onChange(evebt);
+          onChange(event);
         }}
       />
     </div>
